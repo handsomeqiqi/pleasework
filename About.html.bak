@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>About</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+ <body background="heade1.jpg">
+     <a href="anima.html">About</a>
+     <h3 align="center">
+	     <font face="Lato" size=6 >About Dresden</font>
+     </h3>
+	 <h3 align="center">
+	    <font face="Lato" size=3 >
+		Dresden is the capital city of the German state of Saxony. It is the 12th most populous city.
+		<br>
+		The city was known as the Jewel Box, because of its baroque and rococo city centre. 
+		<br>
+        Since 1990, Dresden has again become a cultural, educational and political centre of Germany. 
+		<br>
+		The Dresden University of Technology is part of the German Universities Excellence Initiative. 
+		<br>
+        Dresden is one of the most visited cities in Germany with 4.7 million overnight stays per year.
+		<br>
+		Its most prominent building is the Frauenkirche located at the Neumarkt, built in the 18th century. 
+		<br>
+		Other famous landmarks include the Zwinger, the Semperoper and the Dresden Castle. 
+		<br>
+		The city is home to the renowned Dresden State Art Collections, originating from the Saxon electors in the 16th century. 
+		<br>
+		Dresden's Striezelmarkt is considered the first genuine Christmas market in the world. 
+		<br>
+		Nearby sights include the National Park of Saxon Switzerland, the Ore Mountains and Moritzburg Castle.
+        </font>	 
+  	 </h3>
+	 <h3 align="center">
+	    <font face="Lato" size =6> About Us</font>
+	 </h3>
+	 <h3 align="center">
+	    <font face="Lato" size=3>
+		Hello. We are students from MSc. Cartography 11th intake, EM+. 
+		<br>
+		Our purpose in creating this web is to help visitors to find excellent resturants while visiting.
+        <br>
+        Beside, Dresden is one of the station of our program.
+		<br>
+		As what our title said, "Scenic, food, love, what matter most",
+        <br>
+		We are looking forward to exploring the city, enjoying the food, 
+		<br>
+		and having a unforgettable semester in Dresden with Carto Squad!
+		</font>
+	 </h3>
+	 
+</body>
+
+</html>
